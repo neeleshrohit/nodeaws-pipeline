@@ -9,14 +9,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> YoYo :-)
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        
+<h3>React and node project</h3>
       </header>
     </div>
   );
