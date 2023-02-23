@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <img src="https://thumbs.dreamstime.com/b/welcome-banner-colorful-serpentine-welcome-banner-spruce-branches-colorful-paper-serpentine-vector-illustration-103884659.jpg" alt="alternatetext">
         
-<h3>React and node project</h3>
+<h3>React & node project</h3>
       </header>
     </div>
   );
